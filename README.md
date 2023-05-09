@@ -1,1 +1,1 @@
-# spring-boot-user-registration-rest
+# Spring Boot User Registration REST example
