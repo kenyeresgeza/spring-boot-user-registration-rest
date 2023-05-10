@@ -1,0 +1,12 @@
+server:
+  port: 8087
+spring:
+  datasource:
+    url: "jdbc:postgresql://localhost:5432/user_registration"
+    username: username
+    password: password
+    driver-class-name: org.hibernate.dialect.PostgreSQLDialect
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
